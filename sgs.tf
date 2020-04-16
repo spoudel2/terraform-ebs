@@ -18,3 +18,4 @@ resource "aws_security_group" "default" {
     prefix_list_ids = ["0.0.0.0/0"]
   }
 }
+#this is for the aws-security
